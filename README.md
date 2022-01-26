@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rrsawant07
+- 👋 Hi, I’m RRS
 - 👀 I’m interested in improving my technical skills
 - 🌱 I’m currently learning python for network automation
 
